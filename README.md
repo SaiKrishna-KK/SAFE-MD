@@ -1,6 +1,6 @@
 Here's an elaborate and persuasive `README.md` file for the **SAFE-MD** project based on the documents you've provided:
 
-```markdown
+
 # SAFE-MD: Statistical Analysis and Forecasting of Crime Events in Maryland
 
 ## Overview
